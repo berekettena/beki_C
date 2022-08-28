@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(void)
+{
+int num1,num2,sum;
+printf("enter num 1: \n ");
+scanf("%d",&num1);
+printf("enter num 1: \n ");
+scanf("%d",&num2);
+sum=num1+num1;
+printf("\n the sum of %d is \n",sum);
+}
